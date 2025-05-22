@@ -10,6 +10,7 @@ const AppContainer = styled.div`
   min-height: 100vh;
   padding: 0px 20px 10px 0px;
   font-family: 'Segoe UI', sans-serif;
+  min-width: 100vw;
 `;
 
 function App() {
