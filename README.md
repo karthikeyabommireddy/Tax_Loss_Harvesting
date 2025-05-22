@@ -2,6 +2,9 @@
 
 A React-based dashboard for cryptocurrency tax optimization. It visualizes your holdings and estimates capital gains before and after tax-loss harvesting.
 
+## 🚀 Live Demo
+👉 [Visit Live Netlify Link](https://taxlossharsvestingbykarthikeya.netlify.app/)
+
 ## 🧾 Features
 
 - 📊 **Capital Gains Cards**: View your short-term and long-term gains before and after harvesting.
@@ -52,6 +55,19 @@ yarn dev
 
 The app should be running at: `http://localhost:5173/` (if using Vite).
 
+## ScreenShots
+![image](https://github.com/user-attachments/assets/6eab31d7-e88c-4082-bdf6-267db54fafcc)
+
+
+![image](https://github.com/user-attachments/assets/7151b26a-9fb1-4ca3-9716-01cb2d9110f5)
+
+
+![image](https://github.com/user-attachments/assets/40092691-8c27-4906-b8c3-f66043cfb07d)
+
+
+![image](https://github.com/user-attachments/assets/c99c8271-f0fd-41e3-bd77-a1050bf47cc6)
+
+
 ## 🧩 Component Overview
 
 ### `CapitalGains.jsx`
@@ -93,8 +109,4 @@ fetchCapitalGains()    // Returns initial capital gains (pre-harvesting)
 * Tax-loss harvesting rules vary by country. Consult a tax advisor.
 * This is a simulated educational project and not a financial product.
 
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
